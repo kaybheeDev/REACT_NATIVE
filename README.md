@@ -1,4 +1,4 @@
-# USING LINUX OS
+# USING WINDOWS OS
 ## REACT-NATIVE DOCS --Setting Up Development Environment<br>
 >> Install nvm -- ```curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash``` and ```nvm -- version```
 >> Install Node.JS --Latest Version<br>
